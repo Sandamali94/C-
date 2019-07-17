@@ -1,0 +1,13 @@
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\bin\Debug\StudentRegDatabase.exe.config
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\bin\Debug\StudentRegDatabase.exe
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\bin\Debug\StudentRegDatabase.pdb
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.csprojResolveAssemblyReference.cache
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.EditDelete.resources
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.Properties.Resources.resources
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.Form1.resources
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.SearchStudent.resources
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.ShowAllStudents.resources
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.csproj.GenerateResource.Cache
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.csproj.CoreCompileInputs.cache
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.exe
+F:\Vstudio\TopUp\StudentRegDatabase\StudentRegDatabase\obj\Debug\StudentRegDatabase.pdb
